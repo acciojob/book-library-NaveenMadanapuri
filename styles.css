@@ -3,7 +3,10 @@
 	background-color:#f8f8f8;
 	box-sizing:border-box;
 }
-.page{
+.title{
+	text-align:center;
+}
+.book-library{
 	text-align:center;
 	padding-top:10px;
 	padding-bottom:50px;
@@ -27,4 +30,5 @@
 	height:30px;
 	background-color:lightgreen;
 	text-align:center;
+	padding-top:5px;
 }
